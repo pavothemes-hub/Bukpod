@@ -28,6 +28,10 @@ MySQL 5.6+
 Bukpod requires three plugins to run correctly: **Pavo Core**, **Elementor**, and **WooCommerce**. These are marked required in the Theme Setup wizard and will be flagged for installation automatically.
 {% endhint %}
 
+{% hint style="info" %}
+To let customers upload and preview their own artwork on a product (the core print-on-demand feature), also install the recommended **WC Designer Pro** (listed as "WooCommerce Designer Pro" once activated) and **Opal Woo Custom Product Variation** plugins - both are bundled with your purchase and installable from the Theme Setup wizard. See [Set up Product Designer](../content-management/set-up-product-designer.md).
+{% endhint %}
+
 ## **3) Recommended PHP Configuration Limits** <a href="#id-3-recommended-php-configuration-limits" id="id-3-recommended-php-configuration-limits"></a>
 
 {% hint style="success" %}
@@ -44,6 +48,10 @@ Upload\_max\_filesize 40M
 
 {% hint style="success" %}
 Post\_max\_size 48M
+{% endhint %}
+
+{% hint style="success" %}
+PHP Imagick extension (recommended for CMYK color conversion in Product Designer print exports)
 {% endhint %}
 
 ## **4) Recommended Setting for the Bukpod Theme**

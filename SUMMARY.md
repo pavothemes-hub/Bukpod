@@ -31,6 +31,7 @@
 * [Sidebar & Sidebar Widgets](content-management/sidebar-and-sidebar-widgets.md)
 * [Set up MailChimp](content-management/set-up-mailchimp.md)
 * [Set up Contact Form](content-management/set-up-contact-form.md)
+* [Set up Product Designer](content-management/set-up-product-designer.md)
 * [Service](content-management/service/README.md)
   * [Add New Service](content-management/service/add-new-service.md)
   * [Bukpod Service Widget](content-management/service/pavo-service.md)
