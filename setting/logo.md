@@ -20,5 +20,5 @@ This is WordPress's native **Site Identity** section - it sets the logo, site ti
 **Step 4** - Click **Publish** to save.
 
 {% hint style="info" %}
-Need a different logo on a specific Header template, or a separate logo for mobile/sticky header/transparent header? Use the **Bukpod Site Logo** Elementor widget instead of (or on top of) the Customizer logo - see [Header & Navigation](../content-management/elementor-widgets/header-and-navigation.md). It lets you set a **Custom Image** per widget instance, independent from Site Identity.
+Need a different logo on a specific Header template, or a separate logo for mobile/sticky header/transparent header? Use the **Site Logo** Elementor widget instead of (or on top of) the Customizer logo - see [Header & Navigation](../content-management/elementor-widgets/header-and-navigation.md). It lets you set a **Custom Image** per widget instance, independent from Site Identity.
 {% endhint %}

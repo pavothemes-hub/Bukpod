@@ -6,7 +6,7 @@ Sliders, marquees, toggles, and other interactive display widgets.
 
 * **Testimonials** repeater - Rating (select 0-5, 0 = hidden), Logo, Quote Icon, Content, Name, Job, avatar Image, Link to.
 * **Style** - `Style 1` (logo+rating in the header, avatar+quote icon in the footer) or `Style 2` (quote icon at top).
-* **Enable Carousel** toggles between **Column Options** and the shared **Carousel Options**.
+* **Enable Carousel** toggles between **Column Options** and the shared **Carousel Options** (see the note at the bottom of [Content & Blog](content-and-blog.md) for what Carousel Options includes).
 * **Style tab**: Card (background/border/radius/padding), Header, Logo size, Rating (icon size, empty vs. filled color - renders as a CSS-width bar, not discrete stars), Content typography/color, Footer & Avatar sizing, Name & Job typography/color, Quote Icon size/color.
 
 ## Bukpod Brands

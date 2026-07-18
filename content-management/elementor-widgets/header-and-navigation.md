@@ -2,7 +2,7 @@
 
 Widgets used to build the Header, Footer, and mobile navigation templates in Theme Builder.
 
-## Bukpod Site Logo
+## Site Logo
 
 * **Custom Image** - `No` uses your Customizer [logo](../../setting/logo.md) automatically; `Yes` reveals an **Add Image** picker so this instance can use a different image (e.g. a light-colored logo for a transparent header).
 * **Image Size**, **Alignment** (Left/Center/Right, responsive).
@@ -36,7 +36,7 @@ See [Breadcrumb](../../setting/breadcrumb.md) for the full walkthrough. Quick co
 
 ## Language Switcher
 
-WPML language switcher, styled to match the theme.
+WPML language switcher, styled to match the theme. The language list itself comes from your WPML setup - there's nothing to pick here, only a single **Layout** section (all on the Content tab, no separate Style tab):
 
-* No content fields to configure - the language list itself comes from your WPML setup. The Content tab only has a **Hover Right** switcher (flips the dropdown's opening direction, same as Nav Menu).
-* **Style tab**: typography, Normal/Hover Label Color, Title Color, Icon Color.
+* Typography, Normal/Hover tabs for Label Color, Title Color, Icon Color.
+* **Hover Right** switcher - flips the dropdown's opening direction, same as Nav Menu.
