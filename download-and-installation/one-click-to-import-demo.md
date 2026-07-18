@@ -1,19 +1,17 @@
 # One Click To Import Demo
 
-With the **1-Click Demo** Import feature in **Spirito**, you can quickly build your website using a pre-made sample. This demo is a copy of the main demo on the website and includes a 'placeholder' image for speedy installation.
+With the **1-Click Demo Import** feature in **Bukpod**, you can quickly build your website using one of the pre-made demo homepages. Bukpod currently ships with three homepage demos (**Home 1**, **Home 2**, **Home 3**), each importing the same core content plus its own homepage design.
 
-Pavothemes has upgraded its theme with **One-click** Import for easy and fast installation. To install the demo, follow these steps:
+**Step 1 -** Log in to your WordPress Dashboard.
 
-**Step 1 -** Log in to your WordPress Dashboard.&#x20;
+**Step 2 -** Make sure the required plugins (**Pavo Core**, **Elementor**, **WooCommerce**) are installed and activated — the importer will not run until they are.
 
-**Step 2 -** Click on **Appearance -> Theme** **Setup**. This section will guide you through the steps for installing the demo with **One-click** Import.
+**Step 3 -** Click on **Appearance → Theme Setup**. This launches the setup wizard that guides you through the demo import.
 
-<figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+**Step 4 -** Choose the demo you want (**Home 1**, **Home 2**, or **Home 3**) and click **Import**.
 
-**Step 3 -** A block for **Starting** will be shown.
+**Step 5 -** Wait for the wizard to import content, widgets, and the homepage design. Once it finishes, your site will look like the selected demo, using placeholder images that you can later replace with your own.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M0pIcnkwC6XUmoax49d%2F-M63gULsARHvwNxEzo_f%2F-M63t3FVwaAghn9cYX8f%2FScreenshot_3.jpg?alt=media\&token=93e62c1e-fd34-44b5-b326-6d6d190c6351)
-
-Follow the guide video [One-Click Import Demo WordPress Theme - Easy to use](https://www.youtube.com/watch?v=GVeCVEWvzoI) to know more details about installation, to see how easy it is!
-
-{% embed url="https://www.youtube.com/watch?v=GVeCVEWvzoI" %}
+{% hint style="info" %}
+The wizard automatically sets the imported homepage as your site's front page and assigns the demo menus — no manual setup needed after import.
+{% endhint %}

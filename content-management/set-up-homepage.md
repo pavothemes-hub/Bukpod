@@ -20,7 +20,9 @@ Have you ever used Elementor? Please follow that guide first: [**Elementor guide
 
 {% embed url="https://www.youtube.com/watch?v=kB4U67tiQLA" %}
 
-## **2. How to use Back End Spirito**
+## **2. How to use Back End Bukpod**
+
+Bukpod ships with three ready-made homepage demos (**Home 1**, **Home 2**, **Home 3**) imported via **Appearance → Theme Setup**, plus a dedicated **Homepage** page template you can assign to any page you build from scratch.
 
 ### **a. Add and modify Row Layout**
 

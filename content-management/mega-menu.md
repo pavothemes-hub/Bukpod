@@ -4,7 +4,7 @@
 
 **Step 2** - Choose Menu you want to show the **Mega menu**.
 
-**Step 3** - Click the button **Mega** to create the **Mega menu** for Item. So this Mega menu will show when you hover over the Item you choose to ad Mega menu.
+**Step 3** - Click the **Mega** button to create a **Mega menu** for that item. The Mega menu will appear when you hover over the item you added it to.
 
 <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 

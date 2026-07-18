@@ -1,26 +1,24 @@
 # Breadcrumb
 
-**Step 1 -** Go to **WordPress Dashboard > Appearance > Breadcrumb > Add New**
+In the Theme Builder, the breadcrumb area is its own template type: **After Header (Breadcrumb, etc.)** — it renders right below your Header on every page, archive, and single post.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-07-15 at 11.21.36 (1).png" alt=""><figcaption></figcaption></figure>
+**Step 1 -** Go to **WordPress Dashboard > Theme Builder > Add New**.
 
-**Step 2** - Click **‘Add New’** and Name your Breadcrumb template and click **‘Create Breadcrumb’** and **'update'**.
+**Step 2 -** Name your template, then set **Type of Template** to **After Header (Breadcrumb, etc.)**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-07-15 at 13.28.14.png" alt=""><figcaption></figcaption></figure>
+**Step 3 -** Set **Display On** and **User Roles** to control where the breadcrumb area should appear, then click **Edit with Elementor**.
 
-**Step 3** - Drag or drop  the element that you want to build your template style with a limited layout
+**Step 4 -** Drag the **Bukpod Breadcrumbs** widget into the template. In its **Content** tab you can configure:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+* **Display Title** - show/hide the page or post title above the trail.
+* **Display Nav** - show/hide the breadcrumb trail itself.
+* **Heading Tag** - the HTML tag used for the title (H1–H6).
+* **404 Error Text** - the message shown when the widget is used on a 404 page.
 
-After all, click **"Update"** for settings.
+**Step 5 -** On the document's **Settings** tab, open **Breadcrumb Settings** to turn on **Feature Post Image** — this shows the current post/page's featured image as a background behind the breadcrumb area, with adjustable background and opacity.
 
-**Step 4 - Set up Breadcrumb**
+**Step 6 -** Use the Elementor **Style** tab on the widget to set spacing, separator, link colors, and typography, then click **Publish** and **Save & Close**.
 
-* Choose tab **Breadcrumb** and you can add the template that has been created to the page.
-* Edit the display of your Breadcrumb Template that can add the created template to the page.
-
-<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
-
-**Step 5 -** Click SAVE & CLOSE
-
-After all, click **"Update"** for settings.
+{% hint style="info" %}
+Need to hide the breadcrumb on a specific page? Open that page in Elementor, go to the document's **Settings** tab → **Breadcrumb Settings**, and turn on **Hide Breadcrumb**.
+{% endhint %}

@@ -8,7 +8,7 @@
 
 **Step 3 -** Name the Builder
 
-**Step 4** - Choose the **“Type of Template”** whether you want to create a Archive.
+**Step 4** - Choose the **“Type of Template”** — select Archive.
 
 **Step 5** - Select target locations with the **“Display On”** where the template should appear.
 

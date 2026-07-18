@@ -1,7 +1,7 @@
 # Introduction
 
-**We are proud to be one of the most Professional WordPress Themes Providers and Elite Author of Envato. Pavothemes provides solutions for Web Development and eCommerce Business specializing in WordPress and WooCommerce.**
+**Thank you for choosing Bukpod!** Bukpod is a calm, modern, and professional WordPress theme designed for wellness, mental health, and healthcare professionals — therapists, counselors, coaches, clinics, and yoga or mindfulness studios. It is built with Elementor and fully compatible with WooCommerce, so you can create a trustworthy, soothing online presence without writing a single line of code.
 
-**Pavothemes mission is to develop and deliver the best WordPress themes with incredible features: No Coding Page Builder, Responsive & Clean Design, Ease to Customize, Optimization, #1 WordPress Theme Control Panel, etc. For years of experience working in this field, we are now one of the best WordPress theme providers.**
+**Pavothemes** is a Professional WordPress Themes provider and Elite Author on Envato, specializing in WordPress and WooCommerce solutions. Our mission is to deliver themes with a true no-code page builder experience, responsive and clean design, easy customization, and solid performance out of the box.
 
-![](https://gblobscdn.gitbook.com/assets%2F-MMIwpjnUUC5LmTljzcO%2F-MMPM3ATEFJnOaQCh5Pt%2F-MMPM7fsBaN5JjM31YGY%2Fimage.png?alt=media\&token=90cc9bdb-0b45-491c-ba75-1aa1b6f7a58a)
+This documentation walks you through everything from installing Bukpod to building your site with the Theme Builder, Elementor widgets, and WooCommerce settings.

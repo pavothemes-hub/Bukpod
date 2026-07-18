@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction1](README.md)
+* [Introduction](README.md)
 * [Support](support.md)
 
 ## GET STARTED
@@ -21,17 +21,18 @@
 * [Set up Header](content-management/set-up-header.md)
 * [Set up Footer](content-management/set-up-footer.md)
 * [Set up Homepage](content-management/set-up-homepage.md)
+* [Elementor Widgets](content-management/elementor-widgets.md)
 * [Blog](content-management/blog.md)
 * [Sidebar & Sidebar Widgets](content-management/sidebar-and-sidebar-widgets.md)
 * [Set up MailChimp](content-management/set-up-mailchimp.md)
 * [Set up Contact Form](content-management/set-up-contact-form.md)
 * [Service](content-management/service/README.md)
   * [Add New Service](content-management/service/add-new-service.md)
-  * [Pavo Service](content-management/service/pavo-service.md)
+  * [Bukpod Service Widget](content-management/service/pavo-service.md)
   * [Archive & Category Page](content-management/service/archive-and-category-page.md)
 * [Teams](content-management/teams/README.md)
-  * [Add New Team](content-management/teams/add-new-team.md)
-  * [Pavo Team](content-management/teams/pavo-team.md)
+  * [Add New Team Member](content-management/teams/add-new-team.md)
+  * [Bukpod Team Box Widget](content-management/teams/pavo-team.md)
 
 ## SETTING
 

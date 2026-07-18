@@ -14,7 +14,7 @@
 
 <figure><img src="../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
 
-**Step 5** - Intergrations and Advanced display config for elementor.
+**Step 5** - The **Integrations** and **Advanced** tabs hold further configuration for Elementor.
 
 ## **2. Tools controls**‌
 

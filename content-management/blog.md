@@ -8,9 +8,9 @@
 
 **Step 3** - Click the '**Add New**' sub-tab.
 
-**Step 4** - Start filling in the blanks: enter your post title in the upper field, you can add the content of the post by us elementor to create.
+**Step 4** - Start filling in the blanks: enter your post title in the upper field, then use Elementor to build the post content.
 
-**Step 5** - As needed, select a category, add tags, and fill in the meta setings below the editor.
+**Step 5** - As needed, select a category, add tags, and fill in the meta settings below the editor.
 
 **Step 6** - Upload a featured image for your post.
 
@@ -44,12 +44,11 @@ You can see all information on your blog post, add new, edit or delete them.
 
 ## **4. Blog Global Configure**
 
-**Step 1** - From your admin Dashboard navigate to : **Apperance** > **Customize** >  **Blog**
+**Step 1** - From your admin Dashboard navigate to: **Appearance** > **Customize** > **Blog**.
 
-**Step 2** - Setup **Sidebar**
+**Step 2** - Under the **Blog** section you'll find two controls:
 
-You can set layout, style for blog.
+* **Sidebar Archive** - sidebar position for the blog listing page (None / Left / Right).
+* **Sidebar Single** - sidebar position for single blog posts (None / Left / Right).
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-**Step 3** - Click **Publish** to save.
+**Step 3** - Click **Publish** to save your changes.

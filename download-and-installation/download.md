@@ -1,6 +1,6 @@
 # Download
 
-Purchase **Spirito** template from [ThemeForest](https://1.envato.market/1jygx) then you can download our template follow 4 steps:
+Purchase the **Bukpod** theme from [ThemeForest](https://themeforest.net/), then download it by following these 4 steps:
 
 * Log in your **ThemeForest** account.
 * Navigate to the Download tab.

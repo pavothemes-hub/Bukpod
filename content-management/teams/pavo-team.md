@@ -1,9 +1,11 @@
-# Pavo Team
+# Bukpod Team Box Widget
 
-You can add widget on elementor the same
+The **Bukpod Team Box** widget renders the team members you added in its repeater (see [Add New Team Member](add-new-team.md)) as a styled grid or carousel.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+**Step 1** - Select the widget on the canvas to open its settings in the left sidebar.
 
-The frontend show the same link:
+**Step 2** - In the **Layout** section, choose between a grid or slider presentation and set the number of columns.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+**Step 3** - Use the **Style** tab to adjust the card design, image shape, spacing, and typography to match your brand.
+
+**Step 4** - You can add multiple **Bukpod Team Box** widgets on different pages — each keeps its own independent list of members.

@@ -31,5 +31,3 @@ Menu Home will be displayed.
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **If you want to know more, please watch our video guide: "**[**How to create Menu by Elementor**](https://www.youtube.com/watch?v=UqDEhDqpB7Q\&feature=youtu.be)**"**
-
-**​**

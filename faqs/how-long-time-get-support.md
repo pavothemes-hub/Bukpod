@@ -20,7 +20,7 @@ We're following Envato Support Policy, please click [here](http://themeforest.ne
 
 To speed up your request ticket, please check the following information before you post a ticket.
 
-* Make sure you are **running the latest version of the Aro theme** and the latest version of WordPress.
+* Make sure you are **running the latest version of the Bukpod theme** and the latest version of WordPress.
 * &#x20;Always **check for updated** information.
 * &#x20;Carefully read our **documentation** for the answer to your question.
 * &#x20;In some cases, try to **disable any additional 3rd party plugins** to see if this fixes the issue.

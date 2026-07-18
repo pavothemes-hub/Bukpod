@@ -10,13 +10,13 @@ Select **Install Now** button, then click on **Activate** to get the plugin read
 
 ## 2. Changing default language
 
-Each theme will have certain languages built in so before starting to translate your theme into language you want, you need to set your WordPress language first.
+Each theme ships with certain languages built in, so before translating your theme into the language you want, you need to set your WordPress language first.
 
-Simply navigate to **Settings -> General** and scroll down to the bottom where you will see a dropdown labeled **Site Language**. As you can in the following image, **Ekommart** default language is English
+Simply navigate to **Settings -> General** and scroll down to the bottom where you will see a dropdown labeled **Site Language**. As shown in the image below, **Bukpod**'s default language is English.
 
 <figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
-If the language you wish to translate your theme into is not in the **Installed** section, select your preferred language from the dropdown menu and click on **Save Changes**.  This will install your language and set it as your site’s default.  I have chosen Germany from the dropdown menu and saved my changes.
+If the language you wish to translate your theme into is not in the **Installed** section, select your preferred language from the dropdown menu and click **Save Changes**. This installs the language and sets it as your site's default. In this example, we selected German from the dropdown menu and saved the changes.
 
 ## 3. Sync & Adding new language
 
@@ -64,7 +64,7 @@ _**Remember**: In order to keep your new translation files remain safe from the 
 
 ## 4. Translating the theme
 
-After doing this, **Ekommart** is ready to be translated into **Arabic**. Simply click on  **Arabic**
+After doing this, **Bukpod** is ready to be translated into **Arabic**. Simply click on  **Arabic**
 
 <figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 

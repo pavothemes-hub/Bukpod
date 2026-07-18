@@ -1,6 +1,6 @@
 # What’s Included?
 
-## **1. How to download Spirito Theme from Themeforest?**
+## **1. How to download Bukpod Theme from Themeforest?**
 
 * Log in your ThemeForest account.
 * Navigate to the Download tab.
@@ -11,6 +11,10 @@
 
 ## **2. Included Files** <a href="#id-2-included-files" id="id-2-included-files"></a>
 
-1. **Licensing -** Contains text fileds license to help you upgrade theme or support.
-2. **Guide -** The folder is contact document to guide you how to install and set up theme.
-3. **Spirito-theme -** Contains the code to install in theme.
+1. **Licensing -** License text files, used when upgrading the theme or requesting support.
+2. **Guide -** Documentation that walks you through installing and setting up the theme.
+3. **bukpod.zip -** The theme package you upload and install on your WordPress site.
+
+{% hint style="info" %}
+The **Installable WordPress File Only** package contains just `bukpod.zip`. Choose **All Files & Documentation** if you also want the licensing files and guide.
+{% endhint %}

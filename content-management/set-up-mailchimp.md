@@ -1,6 +1,6 @@
 # Set up MailChimp
 
-**Step 1 - I**nstall **Mailchimp** for WordPress.
+**Step 1 -** Install **Mailchimp** for WordPress.
 
 From the '**Plugins**' menu on the left-hand side of the Dashboard, select the '**Add new plugin**' search for **MC4WP: Mailchimp for WordPress** and click **“Install now”** from the search results page.
 
@@ -11,3 +11,7 @@ From the '**Plugins**' menu on the left-hand side of the Dashboard, select the '
 * When you create form, please use the following mark-up and paste it to your form ( You can edit the text from this markup to your text if you want)
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Alternatively, drag the **MailChimp Sign-Up Form** widget onto any Elementor page — it renders the same MC4WP form and lets you style the fields and button from the Elementor **Style** tab, without touching the shortcode.
+{% endhint %}
