@@ -42,6 +42,7 @@
 * [Button](setting/button.md)
 * [Layout](setting/layout.md)
 * [Logo](setting/logo.md)
+* [WooCommerce](setting/woocommerce.md)
 * [Template](setting/template.md)
 * [Elementor config](setting/elementor-config.md)
 
